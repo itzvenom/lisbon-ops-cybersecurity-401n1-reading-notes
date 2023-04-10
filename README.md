@@ -6,3 +6,5 @@ Tracking of observations and questions from the reading assignments throughout m
 ## TABLE OF CONTENTS:
 
 [Wiki: Home](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki)
+
+[Read: Class 01 - Strategic Policy Development](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-01---Strategic-Policy-Development)
