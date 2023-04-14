@@ -15,4 +15,4 @@ Tracking of observations and questions from the reading assignments throughout m
 
 [Read: Class 01 - Strategic Policy Development](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-01---Strategic-Policy-Development)
 
-[Read: Class 02 Cloud Security Principles](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-02---Cloud-Security-Principles-and-Frameworks)
+[Read: Class 02 - Cloud Security Principles](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-02---Cloud-Security-Principles-and-Frameworks)
