@@ -20,3 +20,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 03 - Cyber Risk Analysis](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-03---Cyber-Risk-Analysis)
 
 [Read: Class 04 - Systems Hardening with CIS Standards](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-04---Systems-Hardening-with-CIS-Standards)
+
+[Read: Class 06 - Data File Encryption](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-06---Data-File-Encryption)
