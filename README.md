@@ -22,3 +22,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 04 - Systems Hardening with CIS Standards](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-04---Systems-Hardening-with-CIS-Standards)
 
 [Read: Class 06 - Data File Encryption](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-06---Data-File-Encryption)
+
+[Read: Class 07 - Protecting Data at Rest with Device Encryption](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-07---Protecting-Data-at-Rest-with-Device-Encryption)
