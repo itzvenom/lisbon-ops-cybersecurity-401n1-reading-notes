@@ -25,4 +25,4 @@ Tracking of observations and questions from the reading assignments throughout m
 
 [Read: Class 07 - Protecting Data at Rest with Device Encryption](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-07---Protecting-Data-at-Rest-with-Device-Encryption)
 
-[Read: Class 09 - Public Key Infrastructure](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-08---Public-Key-Infrastructure-(PKI))
+[Read: Class 09 - Public Key Infrastructure (PKI)](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-09---Public-Key-Infrastructure-(PKI))
