@@ -26,3 +26,7 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 07 - Protecting Data at Rest with Device Encryption](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-07---Protecting-Data-at-Rest-with-Device-Encryption)
 
 [Read: Class 09 - Public Key Infrastructure (PKI)](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-09---Public-Key-Infrastructure-(PKI))
+
+[Read: Class 11 - Setting up Splunk SIEM](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-11-Setting-up-Splunk-SIEM)
+
+[Read: Class 12 - Log Analysis with Splunk](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-12-Log-Analysis-with-Splunk)
