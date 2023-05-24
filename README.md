@@ -34,3 +34,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 13 - Reconstructing a Cloud Attack with Splunk](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-13-Reconstructing-a-Cloud-Attack-with-Splunk)
 
 [Read: Class 14 - Intrusion Detection and Prevention Systems (IDS/IPS)](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-14---Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
+
+[Read: Class 16 Cloud Identity and Access Management (IAM) with AWS](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-16---Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
