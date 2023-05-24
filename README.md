@@ -30,3 +30,7 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 11 - Setting up Splunk SIEM](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-11-Setting-up-Splunk-SIEM)
 
 [Read: Class 12 - Log Analysis with Splunk](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-12-Log-Analysis-with-Splunk)
+
+[Read: Class 13 - Reconstructing a Cloud Attack with Splunk](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-13-Reconstructing-a-Cloud-Attack-with-Splunk)
+
+[Read: Class 14 - Intrusion Detection and Prevention Systems (IDS/IPS)](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-14---Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
