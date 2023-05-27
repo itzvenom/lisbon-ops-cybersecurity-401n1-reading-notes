@@ -38,3 +38,5 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 16 - Cloud Identity and Access Management (IAM) with AWS](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-16---Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
 
 [Read: Class 17 - Cloud Network Security](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-17---Cloud-Network-Security)
+
+[Read: Class 18 - Logging and Monitoring in AWS](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-18---Logging-and-Monitoring-in-AWS)
