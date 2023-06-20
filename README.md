@@ -40,3 +40,11 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 17 - Cloud Network Security](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-17---Cloud-Network-Security)
 
 [Read: Class 18 - Logging and Monitoring in AWS](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-18---Logging-and-Monitoring-in-AWS)
+
+[Read: Class 26 - Remote Code Execution](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-26---Remote-Code-Execution)
+
+[Read: Class 27 - Persistence](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-27-Persistence)
+
+[Read: Class 28 - Log Clearing](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-28-Log-Clearing)
+
+[Read: Class 29 - Modeling a Web Application](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-29-Modeling-a-Web-Application)
