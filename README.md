@@ -48,3 +48,11 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 28 - Log Clearing](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-28-Log-Clearing)
 
 [Read: Class 29 - Modeling a Web Application](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-29-Modeling-a-Web-Application)
+
+[Read: Class 31 - Malware Detection with YARA Rules](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-31-Malware-Detection-with-YARA-Rules)
+
+[Read: Class 32 - Malware Traffic Analysis with Wireshark](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-32---Malware-Traffic-Analysis-with-Wireshark)
+
+[Read: Class 33 - Threat Hunting with Security Onion](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-33---Threat-Hunting-with-Security-Onion)
+
+[Read: Class 34 - Forensics Investigation with Autopsy](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-34-Forensics-Investigation-with-Autopsy)
