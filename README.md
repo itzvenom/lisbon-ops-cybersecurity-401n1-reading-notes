@@ -56,3 +56,9 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 33 - Threat Hunting with Security Onion](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-33---Threat-Hunting-with-Security-Onion)
 
 [Read: Class 34 - Forensics Investigation with Autopsy](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-34-Forensics-Investigation-with-Autopsy)
+
+[Read: Class 36 - XSS with w3af, DVWA](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-36-XSS-with-w3af,-DVWA)
+
+[Read: Class 37 - Automated AppSec with ZAP](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-37-Automated-AppSec-with-ZAP)
+
+[Read: Class 38 - Attacking Juice Shop wi](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-38-Attacking-Juice-Shop-with-Burp-Suite)
