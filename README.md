@@ -61,4 +61,4 @@ Tracking of observations and questions from the reading assignments throughout m
 
 [Read: Class 37 - Automated AppSec with ZAP](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-37-Automated-AppSec-with-ZAP)
 
-[Read: Class 38 - Attacking Juice Shop wi](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-38-Attacking-Juice-Shop-with-Burp-Suite)
+[Read: Class 38 - Attacking Juice Shop with Burp Suite](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-38-Attacking-Juice-Shop-with-Burp-Suite)
