@@ -62,3 +62,11 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 37 - Automated AppSec with ZAP](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-37-Automated-AppSec-with-ZAP)
 
 [Read: Class 38 - Attacking Juice Shop with Burp Suite](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-38-Attacking-Juice-Shop-with-Burp-Suite)
+
+[Read: Class 39 ‐ SQLi with Burp Suite, WebGoat](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-39-%E2%80%90-SQLi-with-Burp-Suite,-WebGoat)
+
+[Read: Class 41 - Reconnaissance](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-41-Reconnaissance)
+
+[Read: Class 42 - Ethics in Tech](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-42-Ethics-in-Tech)
+
+[Read: Class 42 - Pass the Hash with Mimikatz](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-42-Pass-the-Hash-with-Mimikatz)
