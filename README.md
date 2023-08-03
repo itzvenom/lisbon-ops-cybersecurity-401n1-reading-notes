@@ -70,3 +70,7 @@ Tracking of observations and questions from the reading assignments throughout m
 [Read: Class 42 - Ethics in Tech](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-42-Ethics-in-Tech)
 
 [Read: Class 42 - Pass the Hash with Mimikatz](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-42-Pass-the-Hash-with-Mimikatz)
+
+[Read: Class 43 - Sniffing and Evasion](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-43-Sniffing-and-Evasion)
+
+[Read: Class 44 - Exploitation with Metasploit](https://github.com/itzvenom/lisbon-ops-cybersecurity-401n1-reading-notes/wiki/Read:-Class-44-Exploitation-with-Metasploit)
